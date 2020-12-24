@@ -1,0 +1,25 @@
+{
+  "name": "docs.bcdice.org",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "honkit": "^3.6.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "serve": "honkit serve",
+    "build": "honkit build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcdice/docs.bcdice.org.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/bcdice/docs.bcdice.org/issues"
+  },
+  "homepage": "https://github.com/bcdice/docs.bcdice.org#readme"
+}
