@@ -32,6 +32,10 @@ BCDiceとは日本で最も使われている、TRPG用ダイスコマンドエ�
 | [繰り返しコマンド](/command/repeat.md) | `x5 2D6`, `rep5 2D6`, `repeat5 2D6` |
 | [Versionコマンド](/command/version.md) | `BCDiceVersion` |
 
+## 対応ゲームシステム
+
+BCDiceは100以上のゲームシステムに対応しています。詳細は[対応ゲームシステム一覧](https://bcdice.org/systems/)をください。
+
 
 ## 問い合わせ先
 
