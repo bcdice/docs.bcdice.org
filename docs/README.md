@@ -36,7 +36,7 @@ BCDiceは100以上のゲームシステムに対応しています。一覧は[�
 本ドキュメントやコマンドに関する問い合わせは、Discordサーバー [bcdice-help][discord] にご連絡ください。
 
 
-[dodontof]:http://www.dodontof.com/
+[dodontof]:https://megalodon.jp/2020-1231-1314-36/www.dodontof.com/index.php?option=com_content&view=article&id=570:good-by-dodontof&catid=12:dodontofnews&Itemid=150
 [ccfolia]:https://ccfolia.com/
 [udonarium]:https://udonarium.app/
 [trpg-studio]:https://trpg-studio.com/
