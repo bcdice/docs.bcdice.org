@@ -8,6 +8,7 @@
   * [バラバラダイス](command/barabara_dice.md)
   * [個数振り足しダイス](command/reroll_dice.md)
   * [上方無限ロール](command/upper_dice.md)
+  * [集計ダイス](command/tally_dice.md)
   * [D66](command/d66_dice.md)
   * [計算コマンド](command/calc.md)
   * [チョイスコマンド](command/choice.md)
