@@ -12,6 +12,7 @@ BCDiceのコマンドを大まかに分類すると、どのゲームシステ�
 | [バラバラダイス](/command/barabara_dice.md) | `5B6` |
 | [個数振り足しダイス](/command/reroll_dice.md) | `2R6[>3]>=5`, `2R6>=5@>3` |
 | [上方無限ロール](/command/upper_dice.md) | `2U6[4]>=10`, `2U6>=10@4` |
+| [集計ダイス](/command/tally_dice.md) | `8TY6`, `7TZ10` |
 | [D66](/command/d66_dice.md) | `D66`, `D66A`, `D66D`, `D66N` |
 | [計算コマンド](/command/calc.md) | `c1+2*3/4` |
 | [チョイスコマンド](/command/choice.md) | `choice[A,B,Z]`, `choice(A,B,Z)`, `choice A B Z`|
